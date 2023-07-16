@@ -179,7 +179,9 @@ No known bugs at this time.
 ## Authors
 
 Enyel Feliz Mercado - [Github](https://github.com/Enyel019) / Email: <Enyelfm@gmail.com>
+
 Carol Diane Hernandez-Andaluz - [Github](https://github.com/CarolDianeHA) / Email: <carol.d.hernandez@gmail.com>
+
 Jose Acevedo Velez - [Github]() / Email: < >
 
 ## License
