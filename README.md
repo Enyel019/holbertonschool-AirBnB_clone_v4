@@ -182,7 +182,7 @@ Enyel Feliz Mercado - [Github](https://github.com/Enyel019) / Email: <Enyelfm@gm
 
 Carol Diane Hernandez-Andaluz - [Github](https://github.com/CarolDianeHA) / Email: <carol.d.hernandez@gmail.com>
 
-Jose Acevedo Velez - [Github]() / Email: < >
+Jose Acevedo Velez - [Github]() / Email: <jose_9513@gmail.com>
 
 ## License
 
