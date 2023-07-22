@@ -1,4 +1,4 @@
-const {$} = window;
+const { $ } = window;
 $(document).ready(function () {
   const myAmenities = {};
   let myList = [];
@@ -10,7 +10,7 @@ $(document).ready(function () {
     if (this.checked) {
       myAmenities[dataId] = dataName;
     } else {
-// sourcery skip: only-delete-object-properties
+      // sourcery skip: only-delete-object-properties
       delete (myAmenities[dataId]);
     }
     for (const key in myAmenities) {
@@ -25,8 +25,7 @@ $(document).ready(function () {
 $.get('http://0.0.0.0:5001/api/v1/status/', function (data) {
   if (data.status === 'OK') {
     $('div#api_status').addClass('available');
-  }
-  else {
+  } else {
     $('div#api_status').removeClass('available');
   }
 });

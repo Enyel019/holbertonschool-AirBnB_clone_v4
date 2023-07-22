@@ -1,4 +1,4 @@
-const {$} = window;
+const { $ } = window;
 $(document).ready(function () {
   const myAmenities = {};
   let myList = [];
@@ -10,7 +10,7 @@ $(document).ready(function () {
     if (this.checked) {
       myAmenities[dataId] = dataName;
     } else {
-// sourcery skip: only-delete-object-properties
+      // sourcery skip: only-delete-object-properties
       delete (myAmenities[dataId]);
     }
     for (const key in myAmenities) {
